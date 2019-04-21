@@ -1,6 +1,6 @@
 # Aliens In Town
-A text based **anagram puzzle**
-
+A text based **anagram puzzle**  
+[Play the game](https://lord8266.itch.io/aliens-in-town)
 ## Background
 
     Player is in an unknown neighborhood ( at around 9pm )

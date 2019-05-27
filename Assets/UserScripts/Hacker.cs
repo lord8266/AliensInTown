@@ -282,7 +282,7 @@ public class LevelEngine
     public int score = 0;
     public static string[,] words = new string[4, 5]
     {
-        { "birds", "monkey" ,"plenty" ,"side ","supply" },
+        { "birds", "monkey" ,"plenty" ,"side","supply" },
         { "asia", "battery" ,"inactive","xerox", "school"  },
         { "vagility", "macaroni", "amputation", "laboratory" ,"impossible"  },
         { "zephyr", "sabretooth", "dwelling" ,"athena" ,"secretary " }

@@ -285,7 +285,7 @@ public class LevelEngine
         { "birds", "monkey" ,"plenty" ,"side","supply" },
         { "asia", "battery" ,"inactive","xerox", "school"  },
         { "vagility", "macaroni", "amputation", "laboratory" ,"impossible"  },
-        { "zephyr", "sabretooth", "dwelling" ,"athena" ,"secretary " }
+        { "zephyr", "sabretooth", "dwelling" ,"athena" ,"secretary" }
     };
     public static string[] aliens = new string[5] {
 

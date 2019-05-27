@@ -1,0 +1,26 @@
+							   Alien's In Town
+
+								  _ ,--=--._
+								,'      _   `.
+								-     _(_)_o  -
+							____'    /_  _/]    `____
+					-=====::(+):::::::::::::::::(+)::=====-
+							(+)."""""""""""""""""""""""""",(+)
+								.           ,
+								  ` - =  - '
+
+			You need to upload a video before the aliens get you !
+
+			Choose A Wifi Network 
+
+			The more encrypted the network the more faster connection 
+			only that it is harder to crack
+
+						Name Of Network 	        Encryption
+
+			Press   1   Directex_5a45 	        WEP       (Lowest Encryption)
+			Press   2   Neel-816 	            WPA+TKIP
+			Press   3   TP-Link_E3DA 	        WPA+AES
+			Press   4   DAMI3 	                WPA2+AES  (Highest Encrpytion)
+
+----------------------------------------------------------------------------------------
